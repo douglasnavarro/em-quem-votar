@@ -100,3 +100,5 @@ eqv
 
 # mypy
 .mypy_cache/
+
+.vscode
