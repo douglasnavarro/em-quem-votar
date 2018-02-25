@@ -11,6 +11,8 @@ class G1Spider(scrapy.Spider):
         'Corrupção'
     ]
 
+    politician = 'Temer'
+
     words = []
     for root_word in root_words:
         words.append(root_word)
@@ -22,8 +24,10 @@ class G1Spider(scrapy.Spider):
             headline = article.xpath('.//div[@class="_s"]//p/text()').extract_first()
             summary  = article.xpath('.//p[@class="feed-post-body-resumo"]/text()').extract_first()
             link     = article.xpath('.//a//@href').extract_first()
-            if headline is not None and any(word in headline for word in self.words) or \
-                summary is not None and any(word in summary for word in self.words):
+            susp_head = headline is not None and any(word in headline for word in self.words)
+            susp_sum = summary is not None and any(word in summary for word in self.words)
+            susp_poli = (headline is not None and self.politician in headline) or (summary is not None and self.politician in summary)
+            if (susp_head or susp_sum) and susp_poli:
                 item = ArticleItem()
                 item['headline'] = headline
                 item['summary']  = summary
