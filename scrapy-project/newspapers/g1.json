@@ -1,6 +1,122 @@
 [
-{"headline": "Temer diz que mensagem de comandante do Exército foi 'homenagem à Constituição'", "summary": "Mais cedo, general Villas Bôas disse que corrupção, impunidade e violência são 'as reais ameças à democracia'. Em vídeo, presidente elogiou discurso e disse endossar a fala.", "link": "https://g1.globo.com/politica/noticia/em-video-temer-diz-que-mensagem-do-comandante-do-exercito-foi-homenagem-a-constituicao.ghtml"},
-{"headline": "Violência, corrupção e crime organizado são 'as reais ameaças à democracia', diz comandante do Exército", "summary": "Mensagem do general Villas Bôas foi lida em cerimônia de entrega da medalha da Ordem do Mérito Militar. Presidente Michel Temer e ministros do STF também participaram do evento.  ", "link": "https://g1.globo.com/politica/noticia/violencia-corrupcao-e-crime-organizado-sao-as-reais-ameacas-a-democracia-diz-comandante-do-exercito.ghtml"},
-{"headline": "Temer avalia sanção a projeto que esvazia poder do TCU e dificulta combate à corrupção", "summary": null, "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2018/04/17/temer-avalia-sancao-a-projeto-que-esvazia-poder-do-tcu-e-dificulta-combate-a-corrupcao.ghtml"},
-{"headline": "Objetivo de busca em empresa portuária é coletar provas de corrupção, diz ministro Luís Roberto Barroso em mandado", "summary": "Ele é relator do inquérito no STF que investiga se presidente Michel Temer beneficiou empresa Rodrimar em troca de propina. Ministro mandou PF apreender documentos, arquivos e dinheiro.", "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2018/03/29/objetivo-de-busca-em-empresa-portuaria-e-coletar-provas-de-corrupcao-diz-ministro-luis-roberto-barroso-em-mandado.ghtml"}
+    {
+        "headline": "Temer diz que mensagem de comandante do Exército foi 'homenagem à Constituição'",
+        "summary": "Mais cedo, general Villas Bôas disse que corrupção, impunidade e violência são 'as reais ameças à democracia'. Em vídeo, presidente elogiou discurso e disse endossar a fala.",
+        "link": "https://g1.globo.com/politica/noticia/em-video-temer-diz-que-mensagem-do-comandante-do-exercito-foi-homenagem-a-constituicao.ghtml"
+    },
+    {
+        "headline": "Violência, corrupção e crime organizado são 'as reais ameaças à democracia', diz comandante do Exército",
+        "summary": "Mensagem do general Villas Bôas foi lida em cerimônia de entrega da medalha da Ordem do Mérito Militar. Presidente Michel Temer e ministros do STF também participaram do evento.  ",
+        "link": "https://g1.globo.com/politica/noticia/violencia-corrupcao-e-crime-organizado-sao-as-reais-ameacas-a-democracia-diz-comandante-do-exercito.ghtml"
+    },
+    {
+        "headline": "Temer avalia sanção a projeto que esvazia poder do TCU e dificulta combate à corrupção",
+        "summary": null,
+        "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2018/04/17/temer-avalia-sancao-a-projeto-que-esvazia-poder-do-tcu-e-dificulta-combate-a-corrupcao.ghtml"
+    },
+    {
+        "headline": "Objetivo de busca em empresa portuária é coletar provas de corrupção, diz ministro Luís Roberto Barroso em mandado",
+        "summary": "Ele é relator do inquérito no STF que investiga se presidente Michel Temer beneficiou empresa Rodrimar em troca de propina. Ministro mandou PF apreender documentos, arquivos e dinheiro.",
+        "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2018/03/29/objetivo-de-busca-em-empresa-portuaria-e-coletar-provas-de-corrupcao-diz-ministro-luis-roberto-barroso-em-mandado.ghtml"
+    },
+    {
+        "headline": "Temer diz que não vai 'tolerar' acusações de que praticou atos de corrupção",
+        "summary": "Presidente deu declaração a rádio após ser questionado sobre pedido da PGR para incluí-lo em inquérito que apura supostos pagamentos ilícitos pela Odebrecht.",
+        "link": "https://g1.globo.com/politica/noticia/temer-diz-que-nao-vai-tolerar-acusacoes-de-que-praticou-atos-de-corrupcao.ghtml"
+    },
+    {
+        "headline": "Fernando Segovia: relembre a polêmica causada pela declaração sobre inquérito contra Temer ",
+        "summary": "Presidente é investigado por suspeita de corrupção e lavagem de dinheiro na edição de decreto do setor de portos. Jungmann demitiu Segovia após assumir o novo ministério da Segurança Pública.",
+        "link": "https://g1.globo.com/politica/noticia/fernando-segovia-relembre-a-polemica-causada-pela-declaracao-sobre-inquerito-contra-temer.ghtml"
+    },
+    {
+        "headline": "Ricardo Saud depõe à PF em inquérito que investiga Temer",
+        "summary": "Ex-diretor da J&F presta depoimento no processo que apura suspeitas de corrupção e lavagem de dinheiro na edição, por Temer, de um decreto sobre o setor de portos.",
+        "link": "https://g1.globo.com/politica/noticia/ricardo-saud-depoe-a-pf-em-inquerito-que-investiga-temer.ghtml"
+    },
+    {
+        "headline": "Entenda a polêmica causada por declaração de Fernando Segovia sobre inquérito da PF contra Michel Temer",
+        "summary": "Presidente é investigado por suspeita de corrupção e lavagem de dinheiro na edição de um decreto no setor de portos. Delegado da PF que preside o inquérito é desafeto do diretor-geral da instituição.",
+        "link": "https://g1.globo.com/politica/noticia/entenda-a-polemica-causada-por-declaracao-de-fernando-segovia-sobre-inquerito-da-pf-contra-michel-temer.ghtml"
+    },
+    {
+        "headline": "Em evento da Caixa, Temer afirma que Minha Casa, Minha Vida terá '600 ou 700 mil' novas unidades em 2018",
+        "summary": "Michel Temer afirmou em evento que banco tem 'vocação social'. Há duas semanas, Temer afastou quatro vice-presidentes do banco suspeitos de corrupção. ",
+        "link": "https://g1.globo.com/economia/noticia/em-evento-da-caixa-temer-afirma-que-minha-casa-minha-vida-tera-de-600-ou-700-mil-novas-unidades-em-2018.ghtml"
+    },
+    {
+        "headline": "Temer determina afastamento de quatro vice-presidentes da Caixa Econômica",
+        "summary": "Ministério Público Federal e Polícia Federal investigam suspeitas de corrupção no banco público. MP e Banco Central recomendaram afastamento dos vices ao presidente Michel Temer.",
+        "link": "https://g1.globo.com/politica/noticia/temer-determina-afastamento-de-vice-presidentes-da-caixa-por-15-dias-informa-planalto.ghtml"
+    },
+    {
+        "headline": "Saud fica em silêncio durante depoimento à PF sobre corrupção no setor de portos",
+        "summary": "Executivo do grupo J&F foi levado para depor em inquérito que investiga se presidente e ex-deputado receberam propina para editar decreto; Temer nega. Depoimento durou cerca de 3 horas.",
+        "link": "https://g1.globo.com/politica/noticia/ricardo-saud-depoe-a-pf-no-inquerito-que-apura-se-houve-corrupcao-em-decreto-sobre-setor-de-portos.ghtml"
+    },
+    {
+        "headline": "Raquel Dodge aciona STF para suspender decreto de Temer que mudou critérios para concessão de indulto de Natal",
+        "summary": "PGR afirma que decreto é o 'mais generoso' dos últimos 20 anos e poderá ser causa de impunidade de crimes graves, como o da corrupção. Ação deverá ser analisada por Cármen Lúcia.",
+        "link": "https://g1.globo.com/politica/noticia/raquel-dodge-aciona-stf-para-suspender-decreto-de-temer-que-mudou-criterios-para-concessao-de-indulto-de-natal.ghtml"
+    },
+    {
+        "headline": "Temer concede indulto a presos por corrupção; Marin é condenado nos EUA. Jornais de sábado (23)",
+        "summary": null,
+        "link": "https://g1.globo.com/politica/blog/matheus-leitao/post/2017/12/23/temer-concede-indulto-a-presos-por-corrupcao-marin-e-condenado-nos-eua-jornais-de-sabado-23.ghtml"
+    },
+    {
+        "headline": "Juiz aceita denúncia, e Rocha Loures vira réu por corrupção no 'caso da mala'",
+        "summary": "Ex-deputado e ex-assessor de Michel Temer vai responder por corrupção passiva. Em abril, ele foi flagrado recebendo mala de dinheiro, supostamente enviada pela J&F ao presidente.",
+        "link": "https://g1.globo.com/df/distrito-federal/noticia/juiz-aceita-denuncia-e-rocha-loures-vira-reu-por-corrupcao-no-caso-da-mala.ghtml"
+    },
+    {
+        "headline": "Rocha Loures pede à Justiça Federal que suspenda análise de denúncia contra ele",
+        "summary": "Ex-deputado e ex-assessor de Michel Temer foi denunciado por corrupção passiva. Defesa quer suspensão até que STF julgue recurso que questiona envio da acusação à primeira instância.",
+        "link": "https://g1.globo.com/politica/noticia/rocha-loures-pede-a-justica-federal-que-suspenda-analise-de-denuncia-contra-ele.ghtml"
+    },
+    {
+        "headline": "Segovia põe em dúvida se 'uma única mala' é suficiente para apontar se Temer praticou corrupção",
+        "summary": "Novo diretor-geral questiona assim trabalho da própria Policia Federal, que conduziu parte da investigação. Ele criticou PGR e disse que, 'sob a égide da PF', investigação teria durado mais tempo.",
+        "link": "https://g1.globo.com/politica/noticia/segovia-poe-em-duvida-se-uma-unica-mala-e-suficiente-para-apontar-se-temer-praticou-corrupcao.ghtml"
+    },
+    {
+        "headline": "Políticos articulam ações que podem comprometer investigações de combate à corrupção",
+        "summary": "Articulação teve início após o presidente Michel Temer conseguir barrar denúncias na Câmara. Entre as ações, está a discussão de projeto que questiona alcance da Lei da Ficha Limpa.",
+        "link": "https://g1.globo.com/politica/noticia/politicos-articulam-acoes-que-podem-comprometer-investigacoes-de-combate-a-corrupcao.ghtml"
+    },
+    {
+        "headline": "Dodge defende ao STF prosseguimento de investigações sobre Temer ",
+        "summary": "Presidente se tornou alvo de inquérito por suspeitas de corrupção e lavagem de dinheiro na edição de um decreto no setor de portos. Defesa de Temer pediu a relator que reconsiderasse investigações.",
+        "link": "https://g1.globo.com/politica/noticia/dodge-defende-ao-stf-prosseguimento-de-investigacoes-sobre-temer.ghtml"
+    },
+    {
+        "headline": "Mudança no Refis incluída pela Câmara permite parcelamento com desconto para suspeitos de corrupção ",
+        "summary": "Programa de parcelamento de dívidas tributárias foi aprovado na última quarta (27) pelos deputados em votação simbólica. Texto entrou como moeda de troca para barra nova denúncia contra Temer.",
+        "link": "https://g1.globo.com/politica/noticia/mudanca-no-refis-incluida-pela-camara-permite-parcelamento-com-desconto-para-suspeitos-de-corrupcao.ghtml"
+    },
+    {
+        "headline": "Nos EUA, Temer diz que não se preocupa 'minimamente' com denúncias",
+        "summary": "Presidente participou de evento promovido pela Agência Reuters e falou sobre denúncias. Ele disse também que o investidor que for para o Brasil não terá preocupação com corrupção.",
+        "link": "https://g1.globo.com/politica/noticia/nos-eua-temer-diz-que-nao-se-preocupa-minimamente-com-denuncias.ghtml"
+    },
+    {
+        "headline": "Janot cita frase de Ulysses sobre corrupção na denúncia de Temer",
+        "summary": null,
+        "link": "http://g1.globo.com/politica/blog/matheus-leitao/post/janot-cita-frase-de-ulysses-guimaraes-sobre-corrupcao-na-denuncia-de-temer.html"
+    },
+    {
+        "headline": "Janot denuncia Temer, Joesley e mais 7 ao STF; presidente é acusado de organização criminosa e obstrução de Justiça",
+        "summary": "Os 7 são Eliseu Padilha, Moreira Franco, Geddel, Henrique Alves, Eduardo Cunha, Rocha Loures e Ricardo Saud. PGR já havia denunciado presidente por corrupção passiva, mas Câmara rejeitou. ",
+        "link": "https://g1.globo.com/politica/noticia/janot-denuncia-temer-joesley-e-mais-7-ao-stf-por-obstrucao-e-organizacao-criminosa.ghtml"
+    },
+    {
+        "headline": "STF julga no dia 13 pedido de Temer para afastar Janot de investigações",
+        "summary": "Defesa do presidente alega perseguição por parte do procurador-geral e pede anulação de atos de Janot, entre eles a denúncia por corrupção passiva rejeitada pela Câmara.",
+        "link": "https://g1.globo.com/politica/noticia/stf-julga-no-dia-13-pedido-de-temer-para-afastar-janot-de-investigacoes.ghtml"
+    },
+    {
+        "headline": "Fachin envia a Cármen Lúcia pedido de abertura de inquérito contra Temer",
+        "summary": "Pedido, do procurador-geral Rodrigo Janot, é para apurar suspeita de corrupção passiva e lavagem de dinheiro em edição de decreto que beneficiou empresa do setor portuário.",
+        "link": "https://g1.globo.com/politica/noticia/fachin-envia-a-carmen-lucia-pedido-de-abertura-de-inquerito-contra-temer.ghtml"
+    }
 ]
