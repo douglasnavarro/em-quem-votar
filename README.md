@@ -15,8 +15,11 @@
     1. This story is actually about that candidate and the candidate is not just mentioned.
     2. This story tells something good about that candidate.
     3. This story tells something bad about that candidate.
-  - It is possible that a solution for this is feasible through NLP.
+  - It is possible that a solution for this is feasible through NLP (tagging). Simple detection of a politician name and 'corruption' or other inciriminating words leads to too many false positives.
 - **The presentation**
   - A web interface will be used to present the data as clearly as possible.
   - I am not sure whether an MVC framework is necessary. Even though a large amount of data must be presented, it is not going to be created or modified by the viewer.
   - PyFlask is being considered as the framework for the web interface.
+  - **Mockup**
+  <p align="center"><img src="mockup.png" width="450px"/></p>
+  <p align="center">Home page showing list of candidates</p>
